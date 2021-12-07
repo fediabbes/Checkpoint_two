@@ -1,0 +1,47 @@
+
+.title_red{
+    color : rgb(19, 9, 153);
+    text-align: center;
+    cursor: pointer;
+    background-color: rgba(4, 55, 122, 0.137);
+    border: none;
+    border-radius: 20px;
+    width: 30%;
+    margin: auto;
+    margin-top: 50px ;
+    position: relative;
+    
+    
+
+}
+
+.title_red:hover{
+    background-color: rgba(12, 4, 122, 0.479);
+    color: rgba(19, 9, 153, 0.418);
+}
+
+img{
+    width: 40%;
+    height: 60%;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top : 20px
+    
+}
+
+.abbes2{
+    display: flex;
+}
+video{
+    margin : 5% 10% 0px 40%;
+}
+
+
+
+
+
+
+
+
+
+
